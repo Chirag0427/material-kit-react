@@ -10,6 +10,7 @@
 
 - [Dashboard](https://material-kit-react.devias.io)
 - [Customers](https://material-kit-react.devias.io/dashboard/customers)
+- [Role](https://material-kit-react.devias.io/dashboard/role)
 - [Integrations](https://material-kit-react.devias.io/dashboard/integrations)
 - [Settings](https://material-kit-react.devias.io/dashboard/settings)
 - [Account](https://material-kit-react.devias.io/dashboard/account)
